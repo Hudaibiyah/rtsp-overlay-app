@@ -91,10 +91,10 @@ DELETE /api/overlays/<id> - Delete overlay
 ## Screenshots
 
 ### Screenshot 1
-![Stream with overlays](screenshots/rstp-ss1.png)
+![Stream with overlays](https://github.com/Hudaibiyah/rtsp-overlay-app/raw/main/rstp-ss1.png)
 
 ### Screenshot 2
-![Adding overlays](screenshots/rstp-ss2.png)
+![Adding overlays](https://github.com/Hudaibiyah/rtsp-overlay-app/raw/main/rstp-ss2.png)
 
 ## Author
 Syed Hudaibiah Zafir
