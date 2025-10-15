@@ -1,0 +1,9 @@
+.app { padding: 12px; font-family: Arial, sans-serif }
+.player-wrapper { display:flex; gap: 12px }
+.video-container { position: relative; width: 640px; height: 360px; background: #000 }
+.video-container video { display:block }
+.overlay { color: white; font-weight: bold; text-shadow: 0 0 4px #000; position: absolute; }
+.overlay-editor { flex:1 }
+.editor-canvas { position: relative; width: 480px; height: 360px; background: #eee; overflow: auto; }
+textarea { width: 100%; height: 60px; }
+button { margin: 6px; }
